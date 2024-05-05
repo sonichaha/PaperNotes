@@ -30,7 +30,7 @@
    2. reassembled each informant’s color-naming data into his or her own objectively glossed color-naming system.
    3. K-means analysis to cluster the individual color-naming systems
 2. Cluster Analysis Results:
-   1. All of the maps display a dominant RED region, and most display a clear YELLOW-OR-ORANGE region, but they vary notably in the partition of the cool region of the WCS chart (corre- sponding to the English terms ‘‘green,’’ ‘‘blue,’’ and ‘‘purple’’).
+   1. All of the maps display a dominant RED region, and most display a clear YELLOW-OR-ORANGE region, but they vary notably in the partition of the cool region of the WCS chart (corresponding to the English terms ‘‘green,’’ ‘‘blue,’’ and ‘‘purple’’).
 3. The number of mofits:
    1. most of the variation in color naming among WCS informants is captured in the motifs obtained for K = 3–6
    2. Gap Statistic analysis.
