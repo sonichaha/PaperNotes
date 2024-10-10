@@ -29,3 +29,8 @@ SCALa
   - the infant learns language at the same time as she learns her place in social interactions
 
 # Socio-Computational Architecture of Language Acquisition (SCALa)
+- two sets of components:
+  - probabilistic models and learning algorithms
+  - data preprocessing components
+
+![alt text](./scala_1.png)
